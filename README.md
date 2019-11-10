@@ -1,2 +1,2 @@
 # kmean
-Implementing the machine learning algorithm in mips assembly code.
+Implementing the famous machine learning algorithm kmean in mips assembly code.
